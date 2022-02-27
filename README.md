@@ -12,5 +12,10 @@ C++
 
 PHP
 
-![image](https://user-images.githubusercontent.com/82450154/155889147-0bccfad6-d8a2-403a-ba19-248ade02a748.png)
+![image](https://user-images.githubusercontent.com/82450154/155889164-7f52e60c-0241-4929-8447-6f1b3aa7f41b.png)
+
+Python
+
+![image](https://user-images.githubusercontent.com/82450154/155889207-a90214fb-ea00-42b7-9d97-cb77f0ac41d0.png)
+
 
